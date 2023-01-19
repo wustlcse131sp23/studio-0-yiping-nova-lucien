@@ -1,4 +1,4 @@
-package studio0;
+	package studio0;
 
 public class LunchReceipt {
 
